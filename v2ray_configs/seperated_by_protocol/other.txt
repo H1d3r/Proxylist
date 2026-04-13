@@ -3,31 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:35200:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#019-%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://hysteria2_fastlane_qszb6rkh0:6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935/?insecure=1&sni=nl1.h.smartaisupport.ru#🚀22@oneclickvpnkeys
-hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk&obfs=none&insecure=1#122-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://rstnnl:XmFNUbpdnnIy7df1YtfLyzVgzt8U9GUv@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw&sni=musicclips.videolinks.ru#🥮100@oneclickvpnkeys
-hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com&obfs=none&insecure=1#031-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://strong-secret-pass-777@103.231.73.181:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🥮95@oneclickvpnkeys
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@674c3aeb-t6ngg0-t8jzg2-1hd7v.us.hyhuawei.com:443?sni=674c3aeb-t6ngg0-t8jzg2-1hd7v.us.hyhuawei.com&obfs=none&insecure=1#168-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433/?insecure=1&sni=nl1.xiaoliyu.cyou#🪺1@oneclickvpnkeys
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7588?sni=hk4.dexlos.com&obfs=none&insecure=1#054-%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C8.2MB%2Fs
-hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@208.87.242.77:35000?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C4.9MB%2Fs
-hysteria2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com:443?obfs=none&insecure=1#196-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@hk1.xiaoliyu.cyou:23990?insecure=1&sni=hk1.xiaoliyu.cyou&mport=22000-27000#%F0%9F%87%AD%F0%9F%87%B0HK_6%7C2.5MB%2Fs
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?sni=vpn-jp-016.fastervpn.world&obfs=none&insecure=1#015-%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932/?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#🥮97@oneclickvpnkeys
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#%F0%9F%87%B8%F0%9F%87%ACSG_16%7C2.9MB%2Fs
-hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@us1.xiaoliyu.cyou:10086?insecure=1&obfs=salamander&obfs-password=PQ%24hN78bzXWN&sni=us1.xiaoliyu.cyou#%F0%9F%87%BA%F0%9F%87%B8US_12%7C4.0MB%2Fs
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?obfs=none&insecure=1#205-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@hk1.xiaoliyu.cyou:23990?insecure=1&sni=hk1.xiaoliyu.cyou&mport=22000-27000#%F0%9F%87%AD%F0%9F%87%B0HK_6%7C2.4MB%2Fs
+hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@us1.xiaoliyu.cyou:10086?insecure=1&obfs=salamander&obfs-password=PQ%24hN78bzXWN&sni=us1.xiaoliyu.cyou#%F0%9F%87%BA%F0%9F%87%B8US_5%7C4.2MB%2Fs
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com:443?sni=324d9cff-t6ngg0-t9lc3n-z93q.us.hyhuawei.com&obfs=none&insecure=1#246-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#060-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?sni=vpn-jp-016.fastervpn.world&obfs=none&insecure=1#126-%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C8.0MB%2Fs
 hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433/?insecure=1&sni=nl1.xiaoliyu.cyou#%3E%3E%40oneclickvpnkeys%3A%3ANL
-hysteria2://331cae90-f7e9-11ed-b4e2-f23c913c8d2b@bb06bea8-t6e740-tb3p3s-lj7z.hk1.hyhuawei.com:443?sni=bb06bea8-t6e740-tb3p3s-lj7z.hk1.hyhuawei.com&obfs=none&insecure=1#067-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&obfs=none&insecure=1#065-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://GEbo3x7TXbmNkdmABqS4mZP7Ax5fjFBPbheKauGJJ9Sw@dbp.qzz.io:8443?sni=dbp.qzz.io&obfs=none&insecure=1#005-%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://e1c7fbbc-96b6-11ef-8563-f23c913c8d2b@5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com:443?sni=5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com&obfs=none&insecure=1#102-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://Telegram--%3E@Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&obfs=Telegram--%25253E%252540Ln2Ray&insecure=1#252-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com:443?sni=d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com&obfs=none&insecure=1#070-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932/?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#🥮97@oneclickvpnkeys
 hysteria2://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:49930/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:35000:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#242-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36400:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#251-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433/?insecure=1&sni=nl1.xiaoliyu.cyou#🪺1@oneclickvpnkeys
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#%F0%9F%87%B8%F0%9F%87%ACSG_16%7C4.0MB%2Fs
+hysteria2://strong-secret-pass-777@103.231.73.181:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🥮95@oneclickvpnkeys
+hysteria2://rstnnl:XmFNUbpdnnIy7df1YtfLyzVgzt8U9GUv@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw&sni=musicclips.videolinks.ru#🥮100@oneclickvpnkeys
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk&obfs=none&insecure=1#017-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@208.87.242.77:35000?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8US_1%7C6.8MB%2Fs
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
