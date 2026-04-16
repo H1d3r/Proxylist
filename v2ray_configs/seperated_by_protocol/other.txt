@@ -3,24 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hkt2.jueduibupao.top:43340?insecure=1&sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_11%7C1.3MB%2Fs
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&obfs=none&insecure=1#021-%F0%9F%87%AF%F0%9F%87%B5%20JP%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🌻31@oneclickvpnkeys
-hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🌻81@oneclickvpnkeys
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?obfs=none&insecure=1#145-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://8a5d58a0-c50e-11ef-a46e-f23c913c8d2b@b2eb54a7-t6pb40-t7do2j-1swry.hk2.hyhuawei.com:443?sni=b2eb54a7-t6pb40-t7do2j-1swry.hk2.hyhuawei.com&obfs=none&insecure=1#125-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#🍏91@oneclickvpnkeys
-hysteria2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@8a40e8c7-t6pb40-th9kx9-1os43.hk2.hyhuawei.com:443?sni=8a40e8c7-t6pb40-th9kx9-1os43.hk2.hyhuawei.com&obfs=none&insecure=1#247-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@208.87.242.77:35000?sni=www.apple.com&obfs=none&insecure=1#008-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://176e8440-673a-4a15-ba35-fad3807b8aab@185.168.194.111:10595-11596/?insecure=1&sni=www.bing.com#🌻76@oneclickvpnkeys
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@electvpn0
-hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&obfs=none&insecure=1#091-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&obfs=none&insecure=1#083-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hkt2.jueduibupao.top:45789?insecure=1&sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_12%7C1.2MB%2Fs
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36600:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#095-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hk3.jueduibupao.top:43802?sni=hk3.jueduibupao.top&obfs=none&insecure=1#004-%F0%9F%87%B2%F0%9F%87%BA%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@f1ba91b1-t6ngg0-t6nlrg-ach1.us.hyhuawei.com:443?obfs=none&insecure=1#048-%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#🌻32@oneclickvpnkeys
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@electvpn0    تست شه
+hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@143.47.56.230:35000?sni=www.lamer.com.hk&obfs=none&insecure=1#231-%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://176e8440-673a-4a15-ba35-fad3807b8aab@185.168.194.111:10595-11596/?insecure=1&sni=www.bing.com#🌻76@oneclickvpnkeys
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hkt2.jueduibupao.top:42706?insecure=1&sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_7%7C1.4MB%2Fs
+hysteria2://47e91fb6-25b8-df52-bc18-3cdc8548192f@1f0709c5-t6ngg0-t7d1t3-81nv.us.hyhuawei.com:443?sni=1f0709c5-t6ngg0-t7d1t3-81nv.us.hyhuawei.com&obfs=none&insecure=1#006-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#🌻81@oneclickvpnkeys
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@tw3.jueduibupao.top:41331?insecure=1&sni=tw3.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.3MB%2Fs
+hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@208.87.242.77:35000?sni=www.apple.com&obfs=none&insecure=1#076-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#%F0%9F%87%A9%F0%9F%87%AADE_11%7C1.6MB%2Fs
+hysteria2://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@33a5bb93-t6pb40-tcdlur-1qwom.hk2.hyhuawei.com:443?sni=33a5bb93-t6pb40-tcdlur-1qwom.hk2.hyhuawei.com&obfs=none&insecure=1#057-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🌻31@oneclickvpnkeys
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://62b7824e-47dc-11ef-9f2d-f23c9164ca5d@136bffb9-t6pb40-tkp3tl-1s09x.hk2.hyhuawei.com:443?sni=136bffb9-t6pb40-tkp3tl-1s09x.hk2.hyhuawei.com&obfs=none&insecure=1#075-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&obfs=none&insecure=1#198-%F0%9F%87%BA%F0%9F%87%B8%20HY%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hkt2.jueduibupao.top:40485?insecure=1&sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C1.4MB%2Fs
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hkt2.jueduibupao.top:42967?insecure=1&sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0HK_5%7C1.7MB%2Fs
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#🍏91@oneclickvpnkeys
