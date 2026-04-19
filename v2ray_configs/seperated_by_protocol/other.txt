@@ -3,25 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world&obfs=none&insecure=1#027-%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
-hysteria2://fc4dd6fd-4a35-42f5-8208-bbb089747292@46.38.157.183:10004?insecure=1&sni=46.38.157.183#%F0%9F%87%BA%F0%9F%87%B8US_11%7C2.5MB%2Fs
-hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#🍎7@oneclickvpnkeys
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#199-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://rstnnl%3AOdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs=salamander&obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&sni=yespaintstudio.rav-kraski.ru#%F0%9F%87%BA%F0%9F%87%B8US_12%7C2.2MB%2Fs
-hysteria2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@432f44d7-t55r40-t94bdb-mrtr.hk1.hyhuawei.com:443?sni=432f44d7-t55r40-t94bdb-mrtr.hk1.hyhuawei.com&obfs=none&insecure=1#245-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@6369805c-t53wg0-t7mt0p-1sllg.hk1.hyhuawei.com:443?sni=6369805c-t53wg0-t7mt0p-1sllg.hk1.hyhuawei.com&obfs=none&insecure=1#224-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?obfs=none&insecure=1#137-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://759bf004-6137-11ec-bd7c-f23c913c8d2b@cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com:443?sni=cb6ccdef-t53wg0-thiwul-1gcq2.hk1.hyhuawei.com&obfs=none&insecure=1#255-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%2540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#225-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@107.167.18.123:1743?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk&obfs=none&insecure=1#247-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://98cedeca-99a0-11ef-bb64-f23c913c8d2b@465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com:443?sni=465e5b71-t53wg0-t6xrvm-1qaek.us.hyhuawei.com&obfs=none&insecure=1#153-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@152.70.176.68:1/?insecure=1&sni=www.bing.com#🍎1@oneclickvpnkeys
-hysteria2://zhangyang@130.61.50.75:6443?obfs=none&insecure=1#160-%F0%9F%87%A9%F0%9F%87%AA%20DE%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://c357a728-1211-11f0-9a65-f23c9164ca5d@e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com:443?sni=e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com&obfs=none&insecure=1#169-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?insecure=1&sni=vpn-us-019.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.1MB%2Fs
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#168-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#199-%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk4.dexlos.com:7484?sni=hk4.dexlos.com&obfs=none&insecure=1#115-%F0%9F%87%AD%F0%9F%87%B0%20HK%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#067-%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-021.fastervpn.world:443?insecure=1&sni=vpn-us-021.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.4MB%2Fs
-hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com:443?obfs=none&insecure=1#216-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443:443?sni=Ab.ac&obfs=FnFgQIckcMRtKq7i&insecure=1#237-%F0%9F%87%B3%F0%9F%87%B1%20NL%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&obfs=none&insecure=1#165-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com&obfs=none&insecure=1#223-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#🍎7@oneclickvpnkeys
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.28.17:65535/?insecure=1&sni=www.microsoft.com#🍎5@oneclickvpnkeys
-hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36600:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#075-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://1469e09e-027c-11ec-a0fc-f23c913c8d2b@73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com:443?obfs=none&insecure=1#043-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
