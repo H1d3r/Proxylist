@@ -3,18 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.0MB%2Fs
-hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com&obfs=none&insecure=1#255-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com:443?sni=74cba7ec-t57ls0-t6nlrg-ach1.hk1.hyhuawei.com&obfs=none&insecure=1#178-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://5046SHWqk6@91.132.51.160:844?obfs=none&insecure=1#196-%F0%9F%87%A6%F0%9F%87%AA%20AE%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?sni=1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com&obfs=none&insecure=1#022-%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://ea800f9e-ca6c-11ef-8e74-f23c913c8d2b@6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443?sni=6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com&obfs=none&insecure=1#095-%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-018.fastervpn.world:443?insecure=1&sni=vpn-us-018.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.5MB%2Fs
-hysteria2://88e7924f-d580-4779-ada8-cb3a457c7528@fre.guren1.me:8443?insecure=1&sni=python.org#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.4MB%2Fs
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&obfs=none&insecure=1#244-%F0%9F%87%BA%F0%9F%87%B8%20PO%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C1.8MB%2Fs
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#256-%F0%9F%90%AD%40GheychiAmoozesh
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.4MB%2Fs
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?insecure=1&sni=vpn-vn-001.fastervpn.world#%F0%9F%87%BB%F0%9F%87%B3VN_1%7C2.0MB%2Fs
-hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com:443?sni=d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com&obfs=none&insecure=1#215-%F0%9F%90%AD%40GheychiAmoozesh
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?insecure=1&sni=vpn-jp-005.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.3MB%2Fs
+hysteria2://437cef58-f10b-11ef-8eaf-f23c9164ca5d@e11104bd-t53wg0-tkn6t8-1i3g8.us.hyhuawei.com:443?sni=e11104bd-t53wg0-tkn6t8-1i3g8.us.hyhuawei.com&obfs=none&insecure=1#119-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://e1c7fbbc-96b6-11ef-8563-f23c913c8d2b@5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com:443?sni=5f159779-t55r40-te0v28-1mh67.us.hyhuawei.com&obfs=none&insecure=1#199-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&insecure=1#095-%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#210-%F0%9F%87%BA%F0%9F%87%B8%20US%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-018.fastervpn.world:443?insecure=1&sni=vpn-us-018.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_8%7C1.0MB%2Fs
+hysteria2://336501b6-51d2-11ee-a993-f23c9164ca5d@9f03f237-t6ngg0-t8kd6j-1c9em.us.hyhuawei.com:443?obfs=none&insecure=1#158-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com&obfs=none&insecure=1#147-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?insecure=1&sni=vpn-jp-010.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.1MB%2Fs
+hysteria2://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com:443?sni=a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com&obfs=none&insecure=1#247-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.0MB%2Fs
+hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com&obfs=none&insecure=1#180-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.3MB%2Fs
+hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com:443?obfs=none&insecure=1#182-%F0%9F%90%AD%40GheychiAmoozesh
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
