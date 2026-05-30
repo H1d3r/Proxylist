@@ -3,23 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/firmfox/Proxify
-hysteria2://46dff9e6-c449-4a13-98b4-4b516427575d@hl.dabache.top:20000?sni=hl.dabache.top&insecure=1#226-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=1#171-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@e4a41201-t6ngg0-tasftf-duku.us.hyhuawei.com:443?sni=e4a41201-t6ngg0-tasftf-duku.us.hyhuawei.com&insecure=1#015-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com&insecure=1#009-%F0%9F%87%AD%F0%9F%87%B0%20HK%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://cf7331fa-bfeb-11ed-a807-f23c913c8d2b@9fa5329b-t6ngg0-tc5odo-1mh85.us.hyhuawei.com:443?sni=9fa5329b-t6ngg0-tc5odo-1mh85.us.hyhuawei.com&insecure=1#243-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@107.167.18.123:1743?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk&insecure=1#207-%F0%9F%87%BA%F0%9F%87%B8%20PO%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://Telegram--%3E@Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&obfs=Telegram--%25253E%252540Ln2Ray&insecure=1#222-%F0%9F%87%B3%F0%9F%87%B1%20NL%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=1#125-%F0%9F%87%BA%F0%9F%87%B8%20PO%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#@hi_proxy_iran :👈کانال تلگرام
-hysteria2://b9c9905c-1627-11ec-a0fc-f23c913c8d2b@f1ba91b1-t6ngg0-t6nlrg-ach1.us.hyhuawei.com:443?insecure=1#122-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com:443?sni=a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com&insecure=1#196-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
-hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36600:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#251-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk3.dexlos.com:5343?sni=hk3.dexlos.com&insecure=1#090-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk5.dexlos.com:9053?sni=hk5.dexlos.com&insecure=1#104-%F0%9F%87%AD%F0%9F%87%B0%20HK%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@%5B2a14:3f87:f001:13::a%5D:36300:443?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#010-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com&insecure=1#193-%F0%9F%87%AD%F0%9F%87%B0%20HK%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com&insecure=1#164-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
-hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@36d59ac9-t59gg0-tdfzix-fm2v.hk1.hyhuawei.com:443?sni=36d59ac9-t59gg0-tdfzix-fm2v.hk1.hyhuawei.com&insecure=1#115-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#Telegram : @V2ynpv
+hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com:443?sni=d83eb7c2-t57ls0-tdfzix-fm2v.hk2.hyhuawei.com&insecure=1#246-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#@filtershekan_channel |8
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&insecure=1#190-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://Telegram--%3E@Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&obfs=Telegram--%25253E%252540Ln2Ray&insecure=1#247-%F0%9F%87%B3%F0%9F%87%B1%20NL%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#045-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com&insecure=1#249-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://336501b6-51d2-11ee-a993-f23c9164ca5d@9f03f237-t6ngg0-t8kd6j-1c9em.us.hyhuawei.com:443?insecure=1#196-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36300:443?sni=YAPC-1.afshin.ir&obfs=Yet-Another-Public-Config-1&insecure=1#122-%F0%9F%87%B3%F0%9F%87%B1%20NL%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=%252540JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#062-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://336501b6-51d2-11ee-a993-f23c9164ca5d@9f03f237-t6ngg0-t8kd6j-1c9em.us.hyhuawei.com:443?sni=9f03f237-t6ngg0-t8kd6j-1c9em.us.hyhuawei.com&insecure=1#223-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://0720c874-35e8-11ef-aa88-f23c913c8d2b@86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com:443?sni=86b4787e-t6pb40-t8xyf4-1l0qa.hk2.hyhuawei.com&insecure=1#015-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://E35FD247-3464-493A-AA34-AE0972EDFA8C@hk3.dexlos.com:5425?sni=hk3.dexlos.com&insecure=1#192-%F0%9F%87%AD%F0%9F%87%B0%20HK%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#@hi_proxy_iran :👈کانال تلگرام
+hysteria2://990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9@c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com:443?sni=c189808a-t57ls0-t7uinf-i8ie.us.hyhuawei.com&insecure=1#085-%F0%9F%87%BA%F0%9F%87%B8%20US%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?insecure=1#018-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@085821b2-t6ngg0-td1l1t-1s824.us.hyhuawei.com:443?sni=085821b2-t6ngg0-td1l1t-1s824.us.hyhuawei.com&insecure=1#128-%F0%9F%87%BA%F0%9F%87%B8%20US%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#145-%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
